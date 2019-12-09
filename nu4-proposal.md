@@ -28,6 +28,25 @@ chain and ecosystem as a major dev fee recipient.
 Our vision for Zcash
 ====================
 
+Our vision for Zcash is the "privacy layer for the Internet of Money".
+
+Today, two public chains are economically relevant: Bitcoin and Ethereum. While
+both have made efforts to address privacy, they've suffered from each project's
+respective direction and split focus.
+
+Privacy on Bitcoin has focused on incremental improvements. Small-set mixers and
+obfuscation on Lightning are state-of-the-art, but don't offer robust privacy
+guarantees.
+
+Unlike Bitcoin, Ethereum makes privacy experimentation by developers fairly
+accessible. Unfortunately, on-chain privacy constructs are expensive and compete
+with other applications of the chain for block space, and no solution has gained
+significant traction.
+
+**Zcash is well-positioned to act as the privacy layer for these chains.** By
+supporting user-defined assets and encouraging bridges from other ecosystems,
+Zcash can maintain relevance and drive privacy in a multi-chain world.
+
 Our capabilities
 ================
 
