@@ -1,6 +1,30 @@
 Who we are
 ==========
 
+[Thesis](https://thesis.co) is a cryptocurrency venture production studio. We
+build products and protocols to support and protect
+
+* Self-sovereignty
+* Privacy as a human right
+* Opt-in culture
+
+Portfolio
+---------
+
+We've built a portfolio of cryptocurrency projects, backed by major investors
+in the space.
+
+1) [Fold](https://foldapp.com), an online and in-store payments and rewards
+   app originally launched in 2015.
+2) [Keep](https://keep.network), a data confidentiality platform for Ethereum.
+   Keep enables off-chain stakers to provide provable sMPC services to smart
+   contracts on the EVM.
+3) [tBTC](https://tbtc.network), a bonded Bitcoin sidechain built on Keep and
+   Ethereum.
+
+We'd like to add Zcash to that list, further developing and supporting the
+chain and ecosystem as a major dev fee recipient.
+
 Our vision for Zcash
 ====================
 
@@ -53,5 +77,3 @@ Potential workstream
 
 Budget
 ======
-
-
