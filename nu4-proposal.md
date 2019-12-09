@@ -94,5 +94,93 @@ Thesis is a full-stack cryptocurrency studio, but we do have some weaknesses.
 Potential workstream
 ====================
 
+Rather than proposing a roadmap which depends on other recipients' priorities or
+the price of ZEC, we'll propose a workstream that plays to our strengths and can
+be adjusted based on market conditions and progress across development teams.
+
+We'd like to prioritize
+
+1) connecting Zcash to other chains
+
+2) ensuring ZEC is accessible from censorship-resistant DEXs
+
+3) moving toward the orderly deprecation of `zcashd`
+
+To that end, we propose the following projects, the detailed planning of which
+we'll defer.
+
+tZEC v1
+-------
+
+tZEC is a Zcash sidechain anchored to Ethereum, based on our work on tBTC. The
+initial version of tZEC will make use of Zcash's Flyclient improvement, the
+recent addition of Blake2 in Ethereum, and t-addresses. The reliance on
+t-addresses will be removed in a subsequent version.
+
+Why?
+
+* ZEC can be accessible via Ethereum-based decentralized exchanges, providing
+  resilience to delisting on centralized exchanges.
+* Zcash grant recipients can use Ethereum to hedge their earnings using
+  collateral-based stablecoins like MakerDAO.
+* This move will continue to align the historically friendly Ethereum and Zcash
+  communities, maintaining Ethereum dApp developer interest in Zcash.
+
+Zcash Go client
+---------------
+
+The Zcash Golang client will be the third Zcash client implementation, based
+on `btcd`.
+
+Why?
+
+* More independent implementations mean more resilience to bugs and attacks on
+  the chain.
+* Building a Go client will involve contributions back to the Golang crypto
+  community, raising awareness of Zcash and helping grow its open-source
+  presence.
+* Having a Go implementation will enable easier collaboration with Ethereum
+  and Cosmos developers, whose primary clients are written in Go.
+* Finally, completion and a successful test period on mainnet will allow the
+  safe deprecation of the C++ codebase. Ditching the remnants of the legacy
+  Bitcoin codebase will make bigger protocol improvements easier across clients
+
+User-defined assets on Zcash
+----------------------------
+
+In close partnership with the ECC and ZF, we'd like to bring user-defined
+assets (UDA) to Zcash.
+
+Why?
+
+* User-defined assets will afford stablecoins, Bitcoin, and other digital assets
+  the same privacy guarantees as ZEC.
+* Many assets on the same network will increase Zcash utilization and grow the
+  anonymity set.
+
+tZEC v2
+-------
+
+The second version of tZEC will focus on a bi-directional bridge between
+Ethereum-based assets and UDA on Zcash, and remove use of t-addresses.
+
+Why?
+
+* Bitcoin on Zcash will be possible via tBTC
+* Decentralized and fiat-backed stablecoins will become usable on Zcash
+* Obsoleting t-addresses will increase shielded adoption
+
+Cosmos pegged zone
+------------------
+
+The Ethereum / Zcash bridge can be generalized and extended to operate on
+the Cosmos network, lowering the cost of future interoperability work and
+ensuring that Zcash is the privacy choice for the budding Cosmos ecosystem.
+
+Why?
+
+* As Cosmos launches IBC, each supported chain will increase the number of
+  assets that can be shielded on Zcash
+
 Budget
 ======
