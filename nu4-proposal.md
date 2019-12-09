@@ -184,3 +184,33 @@ Why?
 
 Budget
 ======
+
+To devote significant resources and attention to Zcash over other opportunities,
+we'd like to receive 25% of the dev fee.
+
+In exchange, we'll organize a new business unit, focused on Zcash development
+and following the workstream above, as well as priorities agreed upon with other
+dev fee recipients and the Zcash Foundation, when appropriate.
+
+We'll target a 20% minimum margin on our work, ensuring we have enough profit
+to smoothly respond to changes in the market, as well as upside as we drive
+value to the ecosystem. This margin is in line with what a typical digital
+agency or software development shop might make, versus the higher margin of
+specialized engineering services typically expected in the cryptocurrency space.
+We believe this low margin will be offset by the security of an ongoing
+allocation and future coin appreciation.
+
+For the life of our allocation, we'll scale the team up and down based on market
+conditions and our outlook, ease of hiring and onboarding, and development
+priorities.
+
+Feedback and diligence
+======================
+
+As the first proposal of this sort that we're aware of, we welcome feedback from
+the Zcash Foundation and the public.
+
+Some diligence, however, might not be appropriate in public forums due to
+financial, competitive, or legal sensitivity. In those situations, we welcome
+the Zcash Foundation to do diligence for the entire community, and are prepared
+to share further operating details they believe are relevant.
